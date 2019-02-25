@@ -1,0 +1,155 @@
+{
+    "title": "IGames中心-物流监控",
+    "QuantityStatisticsType": [
+        {
+            "tit": "出勤率",
+            "QuantityStatisticsCont": "50%",
+            "QuantityStatisticsPic": "/static/images/system/LogisticsManagement/top.png",
+            "QuantityStatisticsPerson": ["总人数：100人","出勤人数：98人"]
+        },
+        {
+            "tit": "预计到达车辆",
+            "QuantityStatisticsCont": "103台",
+            "QuantityStatisticsPic": "/static/images/system/LogisticsManagement/top.png",
+            "QuantityStatisticsPerson": ["9.6m以上：60台","9.6m以下：43台"]
+        },
+        {
+            "tit": "操作货量",
+            "QuantityStatisticsCont": "12,345件",
+            "QuantityStatisticsPic": "/static/images/system/LogisticsManagement/top.png",
+            "QuantityStatisticsPerson": ["流出货量：6,000件","流入货量：6,345件"]
+        },
+        {
+            "tit": "饱和度",
+            "QuantityStatisticsCont": "98%",
+            "QuantityStatisticsPic": "/static/images/system/LogisticsManagement/dec.png",
+            "QuantityStatisticsPerson": ["派送货区饱和度：60%"]
+        }
+    ],
+    "Billboard": {
+        "title": "排行榜",
+        "more": "更多"
+    },
+    "ranking": {
+        "content1": "我的排名",
+        "num1": "3/7",
+        "pic1": "/static/images/system/LogisticsManagement/top.png",
+        "content2": "本周贡献值",
+        "num2": "¥1,245,675",
+        "pic2": "/static/images/system/LogisticsManagement/top.png"
+    },
+    "rankingCentre": [
+        {
+            "serialNumber": 1,
+            "rankingName": {
+                "content": "顺德枢纽中心",
+                "num": "¥124,241,245,675"
+            },
+            "pic": "/static/images/system/LogisticsManagement/good1.png",
+            "goodNum": 1673
+        },
+        {
+            "serialNumber": 2,
+            "rankingName": {
+                "content": "北京转运中心",
+                "num": "¥6,241,245,675"
+            },
+            "pic": "/static/images/system/LogisticsManagement/good1.png",
+            "goodNum": 962
+        },
+        {
+            "serialNumber": 3,
+            "rankingName": {
+                "content": "天津枢纽中心",
+                "num": "¥4,241,245,675"
+            },
+            "pic": "/static/images/system/LogisticsManagement/good1.png",
+            "goodNum": 417
+        }
+    ],
+    "Billboard2": {
+        "title": "中转消息提醒",
+        "more": "更多",
+        "information": [
+            {
+                "content": "A-743台装货异常",
+                "time": "12-30"
+            },
+            {
+                "content": "B-262台设备正常",
+                "time": "12-20"
+            },
+            {
+                "content": "A-152台装货负载",
+                "time": "12-10"
+            },
+            {
+                "content": "A-828台装货异常",
+                "time": "12-05"
+            },
+            {
+                "content": "B-133台设备正常",
+                "time": "12-01"
+            }
+        ],
+        "pic": "/static/images/system/LogisticsManagement/SillyEightTurtle.gif"
+    },
+    "chartsBox": [
+        {
+            "title": "预计货量",
+            "chartsDay": ["天","时"],
+            "content": "明日预计货量",
+            "contentNum": "　2,123,467",
+            "chartsId": "w-vehicle",
+            "chartsDataLeft": {
+                "content": "建议车辆",
+                "num": "40辆"
+            },
+            "chartsDataRight": {
+                "content": "建议人员",
+                "num": "90人"
+            }
+        },
+        {
+            "title": "卸车",
+            "chartsDay": ["天","时"],
+            "content": "预计到达货量",
+            "contentNum": "　3,467",
+            "chartsId": "w-cargo",
+            "chartsDataLeft": {
+                "content": "待卸车辆数",
+                "num": "40辆"
+            },
+            "chartsDataRight": {
+                "content": "待卸货物数",
+                "num": "23,467件"
+            }
+        },
+        {
+            "title": "叉车",
+            "chartsDay": ["天","时"],
+            "content": "预计电叉票时长",
+            "contentNum": "　5 min",
+            "chartsId": "w-ticket",
+            "chartsDataLeft": {
+                "content": "整体票均时长",
+                "num": "15 mins"
+            },
+            "chartsDataRight": {
+                "content": "电叉票均时长",
+                "num": "4 mins"
+            }
+        }
+    ],
+    "echartsData": {
+        "charts1": {
+            "data1": ["2.2", "2.3", "2.44", "2.5", "2.6", "2.7", "2.8", "2.9"],
+            "data2": [12, 32, 41, 20, 50, 30, 60, 43]
+        },
+        "charts2": {
+            "data1": ["17点", "18点", "19点", "20点", "21点", "22点", "23点"],
+            "data2": [254, 523, 122, 740, 262, 325, 430]
+        },
+        "charts3": {}
+    }
+}

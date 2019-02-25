@@ -1,0 +1,110 @@
+{
+  "activity": {
+    "title": "别着急，所有活动正在紧急筹备中",
+    "time": "活动开始时间倒计时："
+  },
+  "activityType": [
+    {
+      "title": "特别快递有惊喜",
+      "pic": "/static/images/system/Campaign/guanggao1.png",
+      "activityIntroduce": {
+        "title": "活动介绍：",
+        "content": [
+          "活动期间，每周任意一天购买商品即可获得惊喜快递小包裹奖励",
+          "第一周奖励：小米AI智能音响（小爱同学）",
+          "第二周奖励：华为智能体重电子秤",
+          "第三周奖励：迪奥口红一支（色号自选）"
+        ],
+        "activitytTime": {
+          "title": "持续时间：",
+          "times": "21天"
+        }
+      }
+    },
+    {
+      "title": "提前购",
+      "pic": "/static/images/system/Campaign/hahaha1.png",
+      "activityIntroduce": {
+        "title": "活动介绍：",
+        "content": [
+          "活动期间，每周可以选择3件商家还未上架的限量特卖商品进行提前购买，限量商品只售卖一次，卖完即止",
+          "活动期间，每周可以选择5件商家还未上架的普通商品进行提前购买，享受商品原价8折的优惠",
+          "活动期间，我们将会随机抽取一位参与本次活动的用户，可注册我们店铺的超级VIP会员",
+          "参与本次活动的用户，我们将会记录，已享受下次更优惠的活动"
+        ],
+        "activitytTime": {
+          "title": "持续时间：",
+          "times": "30天"
+        }
+      }
+    },
+    {
+      "title": "限时秒杀",
+      "pic": "/static/images/system/Campaign/guanggao3.png",
+      "activityIntroduce": {
+        "title": "活动介绍：",
+        "content": [
+          "活动期间，所有电子产品享8折优惠",
+          "活动期间，所有服饰产品享7折优惠",
+          "活动期间，所有儿童产品享6折优惠",
+          "活动期间，其他产品享9折优惠"
+        ],
+        "activitytTime": {
+          "title": "持续时间：",
+          "times": "10天"
+        }
+      }
+    },
+    {
+      "title": "会员注册享好礼",
+      "pic": "/static/images/system/Campaign/guanggao4.png",
+      "activityIntroduce": {
+        "title": "活动介绍：",
+        "content": [
+          "活动期间，可通过APP或官方自营实体店进行注册普通VIP会员或超级VIP会员",
+          "普通VIP会员：2,888 即可注册，终身享受所有商品9.5折优惠",
+          "超级VIP会员：5,888 即可注册，终身享受所有商品8折优惠",
+          "此活动只开放一次，即以后不再提供注册会员功能"
+        ],
+        "activitytTime": {
+          "title": "持续时间：",
+          "times": "10天"
+        }
+      }
+    },
+    {
+      "title": "拼图抽奖",
+      "pic": "/static/images/system/Campaign/guanggao5.png",
+      "activityIntroduce": {
+        "title": "活动介绍：",
+        "content": [
+          "活动期间，会开放虚拟拼图和实物拼图游戏，游戏分为简易，中等和困难三种模式",
+          "虚拟拼图：根据选择的模式，随机产生对应模式等级的拼图，每次每人的拼图不同",
+          "实物拼图：根据选择的模式，由实体店客服提供实物拼图",
+          "限定时间内，根据完成度，发放实物奖励或红包"
+        ],
+        "activitytTime": {
+          "title": "持续时间：",
+          "times": "15天"
+        }
+      }
+    },
+    {
+      "title": "签到有礼",
+      "pic": "/static/images/system/Campaign/guangao.jpg",
+      "activityIntroduce": {
+        "title": "活动介绍：",
+        "content": [
+          "活动期间，每天都可在APP打卡签到",
+          "天奖励：发送1-10元的随机金额红包",
+          "周奖励：必须本周的每天都签到成功，发放价值288元的实物奖励",
+          "月奖励：必须本月的每天都签到成功，发放价值588元的实物奖励"
+        ],
+        "activitytTime": {
+          "title": "持续时间：",
+          "times": "30天"
+        }
+      }
+    }
+  ]
+}
